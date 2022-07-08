@@ -1,5 +1,5 @@
 ### Hi there 👋
-😄 My name is Daniel also known as danb76 online. I go by ✨any✨ pronouns!
+😄 My name is Daniel also known as danb76 online. I go by ✨any✨ pronouns!\n
 ⚡ Fun fact: Cats > Dogs
 
 <!--
