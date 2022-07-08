@@ -1,6 +1,5 @@
 ### Hi there 👋
-😄 My name is Daniel also known as danb76 online. I go by ✨any✨ pronouns!\n
-⚡ Fun fact: Cats > Dogs
+😄 My name is Daniel also known as danb76 online. I go by ✨any✨ pronouns!
 
 <!--
 **danb76m/danb76m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
