@@ -1,6 +1,9 @@
-### Hi there 👋
-- My name is Daniel, also known as danb76 online
-- I go by ✨any✨ pronouns!
-- 💬 Feel free to contact me about any of my projects!
-- 🎨 This is a new portfolio I'm working on, so it's a little empty for now..
-- 🖥️ Studying Computer Science A Level alongside Business and Photography
+### Hi there 👋 I'm Daniel
+
+<ul>
+<li>✨ I go by any pronouns!</li>
+<li>🖥️ Studying Computer Science A Level alongside Business</li>
+<li>💬 Feel free to contact me about any of my projects!</li>
+</ul>
+
+<img alt="Visits" src="https://badges.strrl.dev/visits/danb76m/danb76m"/>
